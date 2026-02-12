@@ -1,0 +1,17 @@
+
+{
+  "name": "triops-evolution-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Triops Evolution Simulation Game",
+  "scripts": {
+    "build": "echo 'Building static assets...'",
+    "start": "npx serve -s . -l $PORT"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.563.0",
+    "@google/genai": "^1.41.0"
+  }
+}

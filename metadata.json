@@ -1,0 +1,6 @@
+
+{
+  "name": "triops-evolution-game",
+  "description": "긴꼬리 투구새우(Triops)를 알부터 성체까지 키우는 교육용 시뮬레이션 게임입니다. 제작자: 이준서",
+  "requestFramePermissions": []
+}
